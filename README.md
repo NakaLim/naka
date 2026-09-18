@@ -1,4 +1,4 @@
-# Open source practice
+![https://github.com/sreyonpeuy/naka/actions?query=workflow%3Atests](https://github.com/sreyonpeuy/naka/workflows/tests/badge.svgi)
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 
